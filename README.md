@@ -4,11 +4,11 @@
 :construction: Challenge amigo secreto Alura + Oracle ONE :construction:
 </h4>
 
-// Esta es una aplicación web que permita agregar amigos a una lista y sortear un amigo secreto entre ellos.
-// Instrucciones:
-// 1. Ingresa el nombre de tu amigo y da click en añadir.
-// 2. Repite el paso uno hasta que esten todos tus amigos.
-// 3. Da click! en el boton Sortear Amigo para seleccionar a un ganador.
+Esta es una aplicación web que permita agregar amigos a una lista y sortear un amigo secreto entre ellos.
+Instrucciones:
+1. Ingresa el nombre de tu amigo y da click en añadir.
+2. 2. Repite el paso uno hasta que esten todos tus amigos.
+3. Da click! en el boton Sortear Amigo para seleccionar a un ganador.
 
 ## :hammer:Funcionalidades del proyecto
 - `Funcionalidad 1`: Agregar un amigo a la lista.
